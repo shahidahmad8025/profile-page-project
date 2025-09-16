@@ -7,7 +7,7 @@ margin: 5px;
 
 }
 
-header{
+header {
 background-color:#9ffcb8;
 text-align: center;
 padding: 10px;
@@ -18,7 +18,7 @@ table {
 border-collapse: collapse;
 }
 
-table th, table td{
+table th, table td {
 padding: 5px;
 }
 
@@ -31,7 +31,7 @@ form input, form textarea {
 padding: 5px;
 }
 
-button{
+button {
 border-radius: 10px;
 padding-right: 15px;
 padding-left: 15px;
